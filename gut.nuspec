@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>gut</id>
+    <version>1.0.0</version>
+    <title>Gut CLI</title>
+    <authors>Seu Nome</authors>
+    <owners>Seu Nome</owners>
+    <projectUrl>https://github.com/seu-usuario/gut</projectUrl>
+    <iconUrl>https://link-para-o-icone.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Imprime a frase 'Thuta brincando de choco é?.</description>
+    <releaseNotes>Versão inicial</releaseNotes>
+    <copyright>Copyright (c) 2023</copyright>
+    <tags>python, cli, gut, example</tags>
+  </metadata>
+  <files>
+    <file src="dist\gut.exe" target="tools" />
+  </files>
+</package>
